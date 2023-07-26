@@ -5,21 +5,18 @@
     display: flex;
     justify-content: flex-end;
     align-items: center;
-}
-
-body {
-    margin: 0px;
-}
-
-.links {
+  }
+  
+  .links {
     margin-right: 50px;
     display: flex;
     align-items: center;
-}
-
-.links a {
+  }
+  
+  .links a {
     text-decoration: none;
     color: white;
     margin-left: 20px;
     font-size: 25px;
-}
+  }
+  
